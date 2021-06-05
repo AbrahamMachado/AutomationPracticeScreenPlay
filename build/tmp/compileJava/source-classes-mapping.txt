@@ -1,0 +1,12 @@
+usersInterfaces/Personal.java
+ usersInterfaces.Personal
+usersInterfaces/Home.java
+ usersInterfaces.Home
+tasks/RegisterUserTask.java
+ tasks.RegisterUserTask
+usersInterfaces/Devices.java
+ usersInterfaces.Devices
+usersInterfaces/Complete.java
+ usersInterfaces.Complete
+usersInterfaces/Adress.java
+ usersInterfaces.Adress
